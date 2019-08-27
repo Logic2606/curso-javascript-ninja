@@ -19,7 +19,7 @@ soma *= 3
 
 // Qual é o valor da variável `soma` até aqui?
 soma
-69
+72
 
 // Declare uma variável chamada `souninja`, atribuindo à ela o valor booleano que representa `verdadeiro`.
 souninja = true
